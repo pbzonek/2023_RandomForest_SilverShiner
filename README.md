@@ -11,5 +11,10 @@ Fish populations rely on complex environmental conditions involving physical, ch
 
 ## Usage:
 The data and R code used to investiage Silver Shiner habitat suitability are provided in this project. Copy or clone the files and you should be able to reproduce the analysis and figures seen within the manuscript.
+
+All scripts can be run from the intial script: Script0-0_UserInterface.R.
+
+An API key is needed to produce plots with a GoogleMaps basemap. Users would need to provide their own API key to get the basemaps.
+
 ## Contact:
 paul.bzonek@dfo-mpo.gc.ca
