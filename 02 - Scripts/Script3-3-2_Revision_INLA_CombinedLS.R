@@ -1,5 +1,5 @@
 ## --------------------------------------------------------------#
-## Script name: Script2-1_INLA_CombinedLS.R 
+## Script name: Script3-3-2_Revision_INLA_CombinedLS.R 
 ##
 ## Purpose of script: 
 ##    1. Run an INLA model for Combined Life Stages 
@@ -16,7 +16,6 @@
 ## --------------------------------------------------------------#
 
  
-
 #####Format data per life stage ##################################----
 #-------------------------------------------------------------# 
 ###CLS == "Combined Life Stage"

@@ -1,3 +1,21 @@
+## --------------------------------------------------------------#
+## Script name: Script3-3-4_Revision_INLA_AdultLS.R 
+##
+## Purpose of script: 
+##    1. Run an INLA model for Adult Life Stages 
+##    2. Compare a null model with a spatial model
+##    3. Compare models to test for spatial autocorrelation
+##
+## Author: Paul Bzonek
+##
+## Date Created: 2022-09-09
+##
+## --------------------------------------------------------------#  
+## Modification Notes:
+##   
+## --------------------------------------------------------------#
+
+
 #####Format data per life stage ##################################----
 #-------------------------------------------------------------# 
 ###ALS == "Adult Life Stage"
