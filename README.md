@@ -3,7 +3,9 @@
 This project holds the R code in support of a manuscript:
 
 ### Title: Modelling complex spatial-temporal drivers of habitat suitability for an imperilled stream fish
-### Authors: Paul A. Bzonek, D. Andrew R. Drake, Jacob W. Brownscombe
+### Authors: 
+Paul A. Bzonek, D. Andrew R. Drake, Jacob W. Brownscombe
+
 ### Publication:
 Bzonek, P.A., Drake, D.A.R. & Brownscombe, J.W. Modelling complex spatial–temporal drivers of habitat suitability for an imperilled stream fish. Hydrobiologia 851, 2279–2294 (2024). https://doi.org/10.1007/s10750-023-05455-5
 
